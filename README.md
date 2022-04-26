@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hello there, I'm Sergey
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<!--
-**spoonty/spoonty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  ### Frontend
+  HTML, CSS, JavaScript, React + Redux, Vue + Vuex, Bootstrap
+  
+  ### Backend
+  PHP, ASP.NET, SQL
+  
+  ### Other
+  C#, C++, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="center">
+ 
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spoonty&theme=monokai)
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spoonty&theme=monokai)  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spoonty&theme=monokai)
+  
+</div>
