@@ -1,18 +1,5 @@
-<h1 align="center">Hello there, I'm Sergey
+<h1 align="center">Hello there!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
-<div align="center">
-
-  ### Frontend
-  HTML, CSS, JavaScript, React + Redux, Vue + Vuex, Bootstrap
-  
-  ### Backend
-  PHP, ASP.NET, SQL
-  
-  ### Other
-  C#, C++, Python
-
-</div>
 
 <div align="center">
  
