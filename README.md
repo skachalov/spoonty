@@ -1,7 +1,6 @@
 <h1 align="center">Hello there!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<div align="center">
- 
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spoonty&theme=monokai)
+<div align="center"> 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spoonty&theme=blueberry&show_icons=true)
 </div>
